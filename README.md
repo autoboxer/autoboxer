@@ -31,10 +31,10 @@
     <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" title="Next" alt="Next" height="40" />
   </a>&nbsp&nbsp&nbsp
   <a href="#">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongo" alt="Mongo" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" height="40" />
   </a>&nbsp&nbsp&nbsp
   <a href="#">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" height="40" />
   </a>&nbsp&nbsp&nbsp
   <a href="#">
     <img src="https://github.com/devicons/devicon/blob/master/icons/grunt/grunt-original.svg" title="Grunt" alt="Grunt" height="40" />

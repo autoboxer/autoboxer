@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://streak-stats.demolab.com/?user=autoboxer&theme=tokyonight&hide_border=true" />
+  <a href="#">
+    <img src="https://streak-stats.demolab.com/?user=autoboxer&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 <br />
 <div align="center">

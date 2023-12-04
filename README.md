@@ -14,7 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" height="40" />&nbsp&nbsp&nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="Express" alt="Express" height="40" />&nbsp&nbsp&nbsp
   <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" title="Next" alt="Next" height="40" />&nbsp&nbsp&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" height="40" />>&nbsp&nbsp&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" height="40" />&nbsp&nbsp&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" height="40" />&nbsp&nbsp&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/grunt/grunt-original.svg" title="Grunt" alt="Grunt" height="40" />&nbsp&nbsp&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" height="40" />&nbsp&nbsp&nbsp

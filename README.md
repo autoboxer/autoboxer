@@ -1,3 +1,4 @@
+<!--
 <div id="header" align="center">
   <a href="#">
     <img src="https://streak-stats.demolab.com/?user=autoboxer&theme=tokyonight&hide_border=true" />
@@ -37,3 +38,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" height="40"/>&nbsp&nbsp&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" title="Sketch" alt="Sketch" height="40"/>&nbsp&nbsp&nbsp
 </div>
+-->
